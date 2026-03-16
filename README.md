@@ -9,7 +9,7 @@ Automate your macOS workflow with ease. Record actions, capture timing, and repl
 
 [**🚀 Download Latest Release (.zip)**](https://github.com/waveWhirlVfx/DesktopAutomationRecorder/releases/latest/download/DesktopAutomationRecorder_v1.0.0.zip)
 
-![Desktop Automation Recorder Landing Page Screenshot](https://wavewhirlvfx.github.io/DesktopAutomationRecorder/hero.png)
+![Desktop Automation Recorder Landing Page Screenshot](./website/public/hero.png)
 
 ## ⏺️ Overview
 
