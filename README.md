@@ -7,10 +7,21 @@
 
 Automate your macOS workflow with ease. Record actions, capture timing, and replay with precision.
 
-[**🚀 Download Latest Release (.zip)**](https://github.com/waveWhirlVfx/DesktopAutomationRecorder/releases/latest/download/DesktopAutomationRecorder_v1.0.0.zip)  
+[**🚀 Download for macOS (.dmg)**](https://github.com/waveWhirlVfx/DesktopAutomationRecorder/releases/latest/download/DesktopAutomationRecorder_v1.0.1.dmg)  
 [**🌐 Visit the Official Website**](https://wavewhirlvfx.github.io/DesktopAutomationRecorder/)
 
 ![Desktop Automation Recorder Landing Page Screenshot](./website/public/hero.png)
+
+## 🛡️ Safe Installation
+Since this is a free, open-source project and not yet signed with a paid Apple Developer certificate, macOS may show an "unidentified developer" or "unverified" warning.
+
+**To install safely:**
+1.  Open the downloaded `.dmg` file.
+2.  Drag **Desktop Automation Recorder** to your **Applications** folder.
+3.  **Right-click** (or Control-click) the app in your Applications folder and select **Open**.
+4.  Click **Open** again in the dialog that appears.
+
+This is a one-time step to verify the app with macOS Gatekeeper.
 
 ## ⏺️ Overview
 
