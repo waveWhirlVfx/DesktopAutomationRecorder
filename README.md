@@ -1,5 +1,10 @@
 # Desktop Automation Recorder ⚡
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/waveWhirlVfx/DesktopAutomationRecorder?color=00f2fe&label=latest&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/waveWhirlVfx/DesktopAutomationRecorder?color=4facfe&style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/waveWhirlVfx/DesktopAutomationRecorder?color=ff00ff&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/waveWhirlVfx/DesktopAutomationRecorder?style=for-the-badge)
+
 Automate your macOS workflow with ease. Record actions, capture timing, and replay with precision.
 
 [**🚀 Download Latest Release (.zip)**](https://github.com/waveWhirlVfx/DesktopAutomationRecorder/releases/latest/download/DesktopAutomationRecorder_v1.0.0.zip)
