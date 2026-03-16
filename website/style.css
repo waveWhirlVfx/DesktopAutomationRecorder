@@ -320,3 +320,57 @@ footer {
     .feature-grid { grid-template-columns: 1fr; }
     .nav-links { display: none; }
 }
+
+/* Installation Guide */
+.install {
+    padding: 8rem 0;
+}
+
+.guide-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    padding: 3rem;
+    border-radius: 32px;
+    align-items: center;
+    background: var(--glass);
+    border: 1px solid var(--glass-border);
+}
+
+.guide-img {
+    width: 100%;
+    border-radius: 16px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+}
+
+.guide-text h3 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.guide-text p {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+}
+
+.guide-text ol {
+    padding-left: 1.5rem;
+    color: var(--text-muted);
+}
+
+.guide-text li {
+    margin-bottom: 1rem;
+    font-size: 1.05rem;
+}
+
+.guide-text strong {
+    color: var(--primary);
+}
+
+@media (max-width: 992px) {
+    .guide-content {
+        grid-template-columns: 1fr;
+        padding: 2rem;
+    }
+}
